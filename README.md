@@ -1,2 +1,2 @@
 # AsTS
-A repoditory which is created for AsTS
+A repository which is created for AsTS
